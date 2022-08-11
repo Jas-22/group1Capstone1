@@ -56,7 +56,9 @@ class SigninViewController: UIViewController {
         do{
            
             let user = User(context: context)
-            user.loggedIn = true;
+            user.loggedIn = true
+            user.name = "jaskirat"
+            user.email = "jaskiratsingh772@gmail.com"
             try context.save()
         }
         catch{
