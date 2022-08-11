@@ -1,0 +1,1082 @@
+
+[
+{
+"name":"Waterloo Collegiate Institute ",
+"description":"Waterloo Collegiate Institute (WCI) is a secondary school in Waterloo, Ontario, Canada. The school is run by the Waterloo Region District School Board. Waterloo Collegiate Institute offers multiple sports programs throughout the school year. During the fall, the following sports are offered: basketball (girls), cross country (boys and girls), golf (boys and girls), field hockey (girls), football (boys), soccer (junior boys), tennis (senior boys, senior girls), and volleyball (boys).",
+"longitude":"-80.5303",
+"latitude":"43.479",
+"rating":[{
+    "name":"Roshan Shah",
+    "rating":5,
+    "review":"Excellent School. As a parent I believe WCI offers all rounded development for my son with very active math club, robotics club, student council and more.\n\nTeachers here are very well qualified with many having years of Industry experience.\n"
+    },
+    {
+    "name":"Allen awesomeness",
+    "rating":3,
+    "review":"Honestly, as a previous student of WCI (2012-2016), I gotta say that I really enjoyed my time here. I definitely love the big and hearty school spirit and culture, makes me feel like I'm part of an inclusive community. And yes, the grade 9s will always get booed upon during assemblies, but it's just part of the culture and I personally found it really amusing haha."
+    },
+{
+    "name":"Michael Yarusevych",
+    "rating":5,
+    "review":"OMG BEST SCHOOL EVER. MUST GO TO THIS SCHOOL OR I WILL HUNT YOU DOWN ANN MAKE YOU :)."
+    }
+    ],
+"image":"WC.jpeg"
+},
+
+
+  
+{
+"name":"Conestoga college ",
+"description":"Conestoga College Institute of Technology and Advanced Learning is a public college located in Kitchener, Ontario, Canada. Established in 1967, Conestoga serves approximately 23,000 registered students through campuses and training centres in Kitchener, Waterloo, Cambridge, Guelph, Stratford, Ingersoll and Brantford with an enrolment of 11,000 full-time students, 30,000 part-time students, and 3,300 apprenticeship students.",
+"longitude":"-80.4048",
+"latitude":"43.3899",
+"rating":[{
+    "name":"köiZü",
+    "rating":5,
+    "review":"I loved studying here. The staff and coordinators were great. My favourite place is the recreation centre. Absolutely loved every second I spend there. I will miss the college badly."
+    },
+    {
+    "name":"Justin Jacob",
+    "rating":5,
+    "review":"Great campus with good fecilities, classrooms are also well equipped and have decent space."
+    },
+  {
+    "name":"Hardik Patel",
+    "rating":5,
+    "review":"Great facility and lots of opportunity for people who want to bulid their career in different field!!."
+    }
+    ],
+"image":"Conestoga.jpeg"
+},
+
+
+  {
+"name":"Renison University College ",
+"description":"Renison University College is an affiliated university college of the University of Waterloo and located in Waterloo, Ontario, Canada. Renison's campus is situated on the western border of Waterloo's main campus. The university college offers academic programs that count as credit toward a University of Waterloo degree. Most academic courses are offered within Waterloo's Faculty of Arts, focusing on social sciences, language and culture.",
+"longitude":"-80.3250",
+"latitude":"43.287",
+"rating":[{
+    "name":"Reiner Vergara",
+    "rating":5,
+    "review":"Amazing experience! Enjoyed forming part of Renison while studying BASE before the pandemic. Its instructors and staff are really knowledgeable, helpful and friendly!"
+    },
+    {
+    "name":"Peter Nu",
+    "rating":5,
+    "review":"Amazing English summer programs for international students. Only heard great things from the students there and how appreciative they are of the excursions and experiences in meeting new people. Staff are wonderful and respectful. A hidden gem by the University of Waterloo."
+    },
+  {
+    "name":"Andrea Woodland",
+    "rating":5,
+    "review":"I worked, lived, and studied at Renison for years and loved every moment of it!  The sense of community at Renison is unmatched and creates an environment that is inclusive for all."
+    }
+    ],
+"image":"RUC.jpeg"
+},
+
+
+   {
+"name":"Bluevale Collegiate Institute ",
+"description":"Bluevale Collegiate Institute (BCI; simply known as Bluevale) is a secondary school in Waterloo, Ontario, Canada, run by the Waterloo Region District School Board. As of the 2019–2020 school year, Bluevale has an enrollment of 1,240 students.[1] The school opened in 1972 under the direction of principal Robert Chilton,[2] and vice-principal Charlie Wilson, initially with grades 9 through 11, adding grades 12, and then 13 in subsequent years.",
+"longitude":"-80.5000",
+"latitude":"43.4751",
+"rating":[{
+    "name":"Nick K",
+    "rating":3,
+    "review":"Very many teachers at this school are very epic, though since covid-19 things have gone from layed back to regulations like a federal government facility."
+    },
+    {
+    "name":"James C",
+    "rating":5,
+    "review":"A wonderful school with amazing teachers and so many fun extracurricular activities to take part in!"
+    },
+  {
+    "name":"Emily H. ",
+    "rating":4,
+    "review":"Good school, I recommend"
+    }
+    ],
+"image":"BV.jpeg"
+},
+
+  
+   {
+"name":"Wilfrid Laurier University",
+"description":"Wilfrid Laurier University (commonly referred to as WLU or simply Laurier) is a public university with campuses in Waterloo, Brantford and Milton,[3] Ontario, Canada. The newer Brantford and Milton campuses are not considered satellite campuses of the original Waterloo campus, instead the university describes itself as a multi-campus multi-community university",
+"longitude":"-80.3138",
+"latitude":"43.2831",
+"rating":[{
+    "name":"MartaBorowska",
+    "rating":3,
+    "review":"Kind of a smaller campus compared to Waterloo, not as nice to walk around. Can't speak to the education here though they have held some good panels. Some of the classrooms are fairly nice and it is close to a few different restaurants."
+    },
+    {
+    "name":"Veda Bhawnani",
+    "rating":1,
+    "review":"horrible curriculum, adds more to the curriculum than other better institutions because of their reputation of being a party school, most of the professors are rude, can't ask questions, what they teach is different than what they put on an exam paper."
+    },
+  {
+    "name":"Trevor Chang ",
+    "rating":4,
+    "review":"This is one of the greatest universities especially if you are considering a career in business. Everyone here is a family and we all want each other to succeed. Laurier truly embodies the phrase work hard play hard and believe me we're really good at doing both ;) Please come down and see for yourself why it's Truky Great to be A Laurier Golden Hawk"
+    }
+    ],
+"image":"WLU.jpeg"
+},
+
+
+
+{
+"name":"The Keg steak house ",
+"description":"The Keg is a Canadian-owned chain of steakhouse restaurants and bars located in Canada and the United States. The original The Keg and Cleave restaurant was founded by George Tidball, in 1971, at a location in North Vancouver, British Columbia.",
+"longitude":"-80.53018",
+"latitude":"43.50315",
+"rating":[{
+    "name":"im the devil",
+    "rating":5,
+    "review":"My family came here for new years and recieved amazing customer service. Probably the best service I've ever had. I love the atmosphere and the food is delicious. My steak was cooked perfectly and melted in my mouth like butter. You definitely need to try the nachos. I wanted to take a pic of them for the review but they were so good!! We ate them too fast."
+    },
+    {
+    "name":"Christopher Brennan",
+    "rating":5,
+    "review":"Had my birthday dinner/date night tonight. Food was incredible, server was so friendly and attentive, steak was cooked to perfection. Portions were just right. Will definitely be back again soon."
+    },
+{
+    "name":"Nick Harnock",
+    "rating":5,
+    "review":"Fantastic service, food came very fast and was cooked absolutely perfectly. Cannot recommend the escargot more, it was the highlight of our night. A must try!"
+    }
+  
+    ],
+"image":"Keg.jpeg"
+},
+
+  
+  {
+"name":"Beertown Public House Waterloo",
+"description":"Beertown Public House Cambridge is the original Beertown location. Since 2009 their goal has been to create a modern beer bar where guests feel welcome. Beertown is about community, fresh food, and great beer!",
+"longitude":"-79.4736",
+"latitude":"43.2343",
+"rating":[{
+    "name":"ChrisH",
+    "rating":5,
+    "review":"Great vibe, service was tight. Food was outstanding. Drinks were top notch. Highly recommended"
+    },
+    {
+    "name":"Christopher Brennan",
+    "rating":5,
+    "review":"Had my birthday dinner/date night tonight. Food was incredible, server was so friendly and attentive, steak was cooked to perfection. Portions were just right. Will definitely be back again soon."
+    },
+{
+    "name":"VictoriaP",
+    "rating":5,
+    "review":"Always a great experience with great food at beertown!"
+    },
+  {
+    "name":"CaroleA",
+    "rating":4,
+    "review":"Too noisy but it’s no surprise at 9 pm on a Saturday night."
+    }
+  
+    ],
+"image":"BT.jpeg"
+},
+
+ 
+  {
+"name":"Famoso Neapolitan Pizzeria",
+"description":"A passion for authentic Neapolitan pizza – and the desire to provide an unforgettable experience. Since 2004, we’ve been bringing the taste of Naples a little closer, with the help of people who share the same passion. Whether you want to be a pizzaiolo or a franchisee, there’s plenty of room to be part of our family.",
+"longitude":"-80.52263 ",
+"latitude":" 43.46472",
+"rating":[{
+    "name":"Nilam Savani",
+    "rating":5,
+    "review":"We went here for my birthday dinner and had a great time. We ordered brucetta & pizza and they both were amazing. They were cooked properly and mojito was also great. Staff was pretty polite and service was great. They were following all the covid measures as well."
+    },
+    {
+    "name":"Christopher Brennan",
+    "rating":5,
+    "review":"Had my birthday dinner/date night tonight. Food was incredible, server was so friendly and attentive, steak was cooked to perfection. Portions were just right. Will definitely be back again soon."
+    },
+  {
+    "name":"Kaizer P",
+    "rating":4,
+    "review":"Stopped by to grab some appetizers for takeout. Meatballs were amazing! Extremely juicy and were quite substantial. Slightly larger than a golf ball and weigh in just over 2oz each. The prosciutto wrapped mozza balls were on the saltier end, and unfortunately were a bit burnt. They were around 2.5oz each. Will be back to for the Meatballs and some other dishes!."
+    }
+  
+    ],
+"image":"NEA.jpeg"
+},
+
+
+{
+"name":"Levetto Waterloo",
+"description":"We believe that great Italian Cuisine shouldn't be pretentious or pricey, so our offerings are deliciously simply: homemade Italian Salads, Romana Pizzas, Fresh Handmade Pastas and a few fantastic Wines at shockingly good prices.",
+"longitude":"-80.4986",
+"latitude":"43.5215",
+"rating":[{
+    "name":"Emily Anagnostis",
+    "rating":4,
+    "review":"Berry and candied pecan salad was fabulous.  Pasta alla vodka too spicy plus charged $5 on top to substitute chicken for the sausage.  Pizza tasted like store bought frozen pizza. Pasta Alfredo just OK.  Overall not too impressed.."
+    },
+    {
+    "name":"Amanda Tru",
+    "rating":3,
+    "review":"We went on a weekend evening and it was pretty packed in there. We think there was an event happening nearby but we got a seat right away in the back."
+    },
+  {
+    "name":"Saransh Goyal",
+    "rating":5,
+    "review":"Amazing good. Great ambience. Quick service"
+    }
+  
+    ],
+"image":"Lev.jpeg"
+},
+
+
+  
+{
+"name":"The White Rabbit",
+"description":"Our main focus is creating a fun and inclusive environment for all of our guests to enjoy.Creating a positive experience for every patron that comes through our doors is very important to us",
+"longitude":"-79.7063310",
+"latitude":"43.6410554",
+"rating":[{
+    "name":"Jess Ie",
+    "rating":5,
+    "review":"Great drinks, yummy cauliflower bites but the tacos were okay. We had a great friendly server and the patio is a vibe. I would recommend this place to catch up and have great drinks with friends!"
+    },
+    {
+    "name":"James Morgan",
+    "rating":5,
+    "review":"First time there and hopefully not the last time.  Food was awesome. Had the jerk chicken skewers(great seasoning) , cauliflower wings(crunchy and saucy) and the beef short rib sammy(yummy). Drinks were flowing easily.  All the staff were welcoming and friendly."
+    },
+  {
+    "name":"Megz",
+    "rating":5,
+    "review":"The food here is fantastic and the service is equally fantastic. One of my new favorites. The place is small so make a reservation!"
+    }
+  
+    ],
+"image":"wtr.jpeg"
+},
+
+
+
+
+
+
+{
+"name":"Waterloo Horticultural Society Memorial Gardens",
+"description":"Waterloo Gardeners is a community group with a passion for gardening. We are a volunteer, non-profit organization located in Waterloo, Ontario. Since 1895, when we were known as the Waterloo Horticultural Society, we have offered presentations, workshops and other activities to encourage knowledge and awareness of horticulture and the environment in the community. Our programs and activities are for anyone who has an interest in gardening.",
+"longitude":"-80.3127",
+"latitude":"43.27541",
+"rating":[{
+    "name":"Pallavi",
+    "rating":5,
+    "review":"Must vsit place!!"
+    },
+    {
+    "name":"JAskirat",
+    "rating":4,
+    "review":"this place makes me feel fresh."
+    },
+{
+    "name":"Nehal",
+    "rating":5,
+    "review":"Fantastic A must visit!"
+    }
+  
+    ],
+"image":"g1.jpeg"
+},
+
+  
+  {
+"name":"Good Earth Community Garden",
+"description":"This is a lovely organic garden with an option to use an old fashion water pump. The garden is nestled beside a grand shade tree and has both sun and shade. Gardeners can relax at the picnic table on the grass. This peaceful garden was started in May 1999 by local residents, St. John's Church and the Food Bank of Waterloo Region. The City of Waterloo helped to prepare the land.",
+"longitude":"-80.51534",
+"latitude":"43.46621",
+"rating":[{
+    "name":"Heather",
+    "rating":5,
+    "review":"I've gardened here for several years. It's a very large garden - 83 plots. Water and tools provided, plenty of parking. It's tucked away from the street, so it's  peaceful and quiet. Once you get there, you don't want to leave."
+    },
+    {
+    "name":"Michael Engler",
+    "rating":4,
+    "review":"Amazing garden.  Nice quiet spot to sit and enjoy some time with nature."
+    },
+
+  {
+    "name":"Oscar",
+    "rating":4,
+    "review":"such a happy place."
+    }
+  
+    ],
+"image":"g2.jpeg"
+},
+
+ 
+  {
+"name":"The Patchwork Community Gardens - EMS Site",
+"description":" The Patchworks gardens are a place where our Region's multicultural reality is embraced and celebrated as people come together to share a mutual love for community and the land.  These gardens seek to engage new immigrants, youth, families or individuals seeking to learn/share gardening skills and willing to enbrace other cultures.",
+"longitude":" -80.55502358056414",
+"latitude":"43.47240575601165",
+"rating":[{
+    "name":"Ella P",
+    "rating":5,
+    "review":"Very nice!"
+    },
+    {
+    "name":"Jose A",
+    "rating":5,
+    "review":"great place, nice "
+    },
+  {
+    "name":"Hariom",
+    "rating":4,
+    "review":"place which gets you closer to mother nature"
+    }
+  
+    ],
+"image":"g3.jpeg"
+},
+
+
+{
+"name":"Peter Russell Rock Garden",
+"description":"While originally created to commemorate the 25th anniversary of the University of Waterloo in 1982, this educational and beautiful university landmark located in the heart of campus has grown steadily over the years to contain over 70 large specimens of rocks and minerals.",
+"longitude":"-80.53463094768225",
+"latitude":"43.49424295552038",
+"rating":[{
+    "name":"Zoey Phillips",
+    "rating":4,
+    "review":"It looks nice. Dunno what else you'd expect from a garden."
+    },
+    {
+    "name":"AEhsan Tavakoli",
+    "rating":3,
+    "review":"Very clean restaurant and delicious tasteful turkish dishes."
+    },
+  {
+    "name":"akshat sharma",
+    "rating":5,
+    "review":"It's a quiet and calm place in middle of city."
+    }
+  
+    ],
+"image":"g4.jpeg"
+},
+
+
+  
+{
+"name":"Beechwood Gardens",
+"description":"Beechwood Gardens was developed by Stonat Development Corp. in 2001. This Waterloo townhouse sits  in Waterloo's Laurelwood neighbourhood. Beechwood Gardens is a 1 storey home, located at 589 Beechwood Drive. This Waterloo townhouse has 49 units.",
+"longitude":" -80.56520490023001",
+"latitude":"43.44929075844473",
+"rating":[{
+    "name":"Jess Ie",
+    "rating":5,
+    "review":"nice can hear birds chirp"
+    },
+    {
+    "name":"James Morgan",
+    "rating":5,
+    "review":"well maintained neat and clean"
+    },
+  {
+    "name":"Megz",
+    "rating":5,
+    "review":"wow"
+    }
+  
+    ],
+"image":"g5.jpeg"
+},
+
+
+
+
+
+
+{
+"name":"Grand River Hospital",
+"description":"Thousands of people arrive at Grand River Hospital every day for medical procedures, testing, or to visit loved ones. Depending on your situation there's info to be aware of before you arrive.",
+"longitude":"-80.51208871534276",
+"latitude":"43.45651426956751",
+"rating":[{
+    "name":"Troy Chenard",
+    "rating":5,
+    "review":"This place is filled with miracle workers. The process for my first born was overwhelming but the doctors and nurses and all staff deserve all the praise in this world. I truly believe this hospital deserves a 5 star rating. I am so grateful for this hospital and everyone involved in our care. Thank you grand river hospital for making this one of the smoothest and best experience of f my life."
+    },
+    {
+    "name":"Nicole M",
+    "rating":3,
+    "review":" had my baby here in December and the nursing staff was INCREDIBLE. We had Trinda and Freda (I believe that was their names) and they were both just so amazing and helpful.The food SUCKED. the morning after I gave birth (first meal provided) was a cheese string and muffin The admin staff were very very rude to my husband. He came in just after me and they told him they didn’t care who he was or why he was there and he needed to wait in the hallway until I came back out. Like hello I’m delivering a baby, I’m not coming back out until it’s out of me"
+    },
+{
+    "name":"Andrew Wilson",
+    "rating":5,
+    "review":"My son was in the hospital all last week very ill. It was the worst week of my life. The nurses were so kind and gentle with my son. They took time to try and put a smile on his face. Very grateful for the care my son received and feel very fortunate."
+    }
+  
+    ],
+"image":"h1.jpeg"
+},
+
+  
+  {
+"name":"St. Mary’s General Hospital",
+"description":"The safety of our patients, staff and community is our top priority. Here, you can find the most up-to-date information regarding our new practices, including information about care partners. Our excellent staff are here to ensure you receive top quality care and are treated with compassion and respect.",
+"longitude":"-80.50196416136711",
+"latitude":"43.438809427640614",
+"rating":[{
+    "name":"Trisha0920",
+    "rating":5,
+    "review":"They are kind, compassionate, structured, organized and very efficient in their work. Saw 2 team huddles during a 2 hour period. I've never felt so taken care of. In and out in less than 4 hours. Great team they have in the Emergency department. They are doing something right. :)"
+    },
+    {
+    "name":"Hetal Patel",
+    "rating":4,
+    "review":"I went in emergency and was expecting long waits in current times due to overcrowded hospitals but they are we’ll organized. Within 4 hours I was done with my blood work, ultrasound, X-ray. They gave me antibiotics for my gall bladder infection and booked surgery at another hospital."
+    },
+
+  {
+    "name":"David Brown",
+    "rating":4,
+    "review":"Went in for appt for pacemaker. No waiting, very nice friendly staff, smiling, very helpful greeters. Had the very best back surgery and radiation therapy there just a year ago and no complaints"
+    }
+  
+    ],
+"image":"h2.jpeg"
+},
+
+ 
+  {
+"name":"Kaufman Building",
+"description":"The Kitchener-Waterloo Hospital was built in 1895 on land donated by Joseph E. Seagram. In 1898, an isolation hospital was built on the south side of the property and was later used as a nurses’ residence from 1908 to 1921.",
+"longitude":" -80.51289906238497",
+"latitude":"43.47607084198453",
+"rating":[{
+    "name":"Todd “Megatron” Scully",
+    "rating":5,
+    "review":"Visit here enough myself that I should change my mailing address to this particular place. Thanks for the support of the G R.H. staff. You are the best!"
+    },
+    {
+    "name":"ren's review",
+    "rating":5,
+    "review":"Building is historic and easy to navigate "
+    },
+  {
+    "name":"om",
+    "rating":4,
+    "review":"cooperative staff"
+    }
+  
+    ],
+"image":"h3.jpeg"
+},
+
+
+{
+"name":"Underhill Residential Home",
+"description":" Residential Intellectual and Developmental Disability, Mental Health, and Substance Abuse Facilities ,  Nursing and Residential Care Facilities ,  Health Care and Social Assistance ,  Rehabilitation center, residential: health care incidental",
+"longitude":"-80.52982055397466",
+"latitude":"43.46290057610268",
+"rating":[{
+    "name":"Jane H",
+    "rating":5,
+    "review":"A family member was a resident of Underhill House. From the day she was admitted, she was very well looked after. As a family, we were always kept informed and are extremely grateful for the care she received and for the memories we built with her, whilst in their care. Unfortunately, she became unwell very quickly but the care she received at the end of her life was excellent, supporting her to die peacefully in her place of choice."
+    },
+    {
+    "name":"Scott D",
+    "rating":4,
+    "review":"Our Nan went to Underhill for respite care, she was made to feel welcome by staff and management. Unfortunately, Nan wasn’t there long before her death but as a family, we are very grateful for the compassion, care and kindness showed to both our Nan and us as a family. The management appear very involved which is quite refreshing, I have worked in social care for many years and this is one of the few homes that didn’t just appear to be about profit."
+    },
+  {
+    "name":"akshat sharma",
+    "rating":5,
+    "review":"ok service"
+    }
+  
+    ],
+"image":"h4.jpeg"
+},
+
+
+  
+{
+"name":"unitypoint health - allen hospital",
+"description":"Cardiology, Diet/Nutrition, Emergency Medicine, Family or General Practice, Gastroenterology, Hematology and Oncology, Infectious Disease, Internist or Critical Care, Medical Management, Nephrology, Neurology, Obstetrics and Gynecology, Orthopedics, Pain Management, Pediatrics, Physical Medicine and Rehabilitation, Physical/Occupat Therapy, Practice Management, Psychiatry, Radiology, Surgery",
+"longitude":"-92.3395639",
+"latitude":"42.52728323721174",
+"rating":[{
+    "name":"Tiffany Holcomb-Brown",
+    "rating":2,
+    "review":"Came in twice due to sever abdominal pain and vomiting. They took hours to admit me and offer medical care. What's the point of an emergency room when they treat your needs as if there's no emergency at all to them. Was discharged after 3 days with 5 prescriptions, I still felt ill had to come back via ambulance and still got same results. This is the most unprofessional hospital Never again I'll die first before returning to this sorry establishment."
+    },
+    {
+    "name":"Raychel Ronnei",
+    "rating":2,
+    "review":"I went to UnityPoint to Health Allen hospital to the OB/GYN And saw Dr khaki. He was very nice and had a lot of helpful information. If you're looking for a OB/GYN I would recommend them. The entrance is a little tricky to find but not too hard."
+    },
+  {
+    "name":"Megz",
+    "rating":2,
+    "review":"ad to stay a couple of days August 2nd, 2018 due to complications of having kidney stones blasted. The stones did not get crushed as planned and had unbelievable pain passing them"
+    }
+  
+    ],
+"image":"h5.jpeg"
+},
+
+{
+"name":"Waterloo Engineering Sign",
+"description":"Waterloo Engineering display outside Engineering 7 at the University of Waterloo",
+"longitude":"-80.54027686531795",
+"latitude":"43.4769464477816",
+"rating":[{
+    "name":"Troy Chenard",
+    "rating":5,
+    "review":"nice one"
+    },
+    {
+    "name":"Nicole M",
+    "rating":3,
+    "review":" fine it is"
+    },
+{
+    "name":"Andrew Wilson",
+    "rating":5,
+    "review":"nice design"
+    }
+  
+    ],
+"image":"m1.jpeg"
+},
+
+  
+  {
+"name":"Memorial Dragon Statue",
+"description":"The dragon was created in 1880 by the sculptor Charles Bell Birch, who had been commissioned by the Royal family and government to produce an ornate sculpture to surmount the pedestal marking what were the historic gates of the City of London.",
+"longitude":"-80.51299911534277",
+"latitude":"43.4673410529047",
+"rating":[{
+    "name":"Trisha0920",
+    "rating":5,
+    "review":"very cool"
+    },
+    {
+    "name":"Hetal Patel",
+    "rating":4,
+    "review":"looks real"
+    },
+
+  {
+    "name":"David Brown",
+    "rating":4,
+    "review":"nice work"
+    }
+  
+    ],
+"image":"m2.jpeg"
+},
+
+ 
+  {
+"name":"Waterloo Cenotaph",
+"description":"Constructed in honor of fourteen men of Waterloo who died in World War I (1914-1918).",
+"longitude":"-80.51975968465821",
+"latitude":"43.46487961478312",
+"rating":[{
+    "name":"Marta Borowska",
+    "rating":5,
+    "review":"Nice little area with some monuments. Decent parking. Random clothes on the ground near a bench."
+    },
+    {
+    "name":"Jiaqing Pan",
+    "rating":5,
+    "review":"Constructed in honor of fourteen men of Waterloo who died in World War I (1914-1918).The 18-foot granite Cenotaph was purchased in1957, replacing a wooden cross that had been erected in memory of the 14 local men who died in the First World War.Now located by City Hall, the Cenotaph is the site of Waterloo’s Remembrance Day ceremonies honouring those lost in wars"
+    },
+  {
+    "name":"William Price",
+    "rating":4,
+    "review":"Remembrance day service, Excellent. Very small crowd & all were wearing masks."
+    }
+  
+    ],
+"image":"m3.jpeg"
+},
+
+
+{
+"name":"Veterans Group",
+"description":" The USGBC Green Veterans Group regenerate men and women who have served in the military for green jobs and green living. Veterans are reintegrated to a healthy lifestyle that focuses on green living and trauma resolution in the built environment, with emphasis on career development for green industry jobs and entrepreneurship. Our program participants receive on-the-job training for green industry professions by participating in veteran service-oriented projects with best inclass, proven community partners.  ",
+"longitude":"-80.50624178393448",
+"latitude":"43.48228683140318",
+"rating":[{
+    "name":"Dustin Kleiboer",
+    "rating":5,
+    "review":"A quaint but monumental park, the feature statue is quite impressive and worth visiting, with the secondary placards giving a concise yet quite informative account of how the houses immediately visible and near to you were constructed for Veterans returning from the War."
+    },
+    {
+    "name":"Michael Oliver",
+    "rating":5,
+    "review":"There is a nice monument in the park, but I often go here for Pokemon Go. This spot has regular Dratini that spawn, and 2 pokestops with lures regularly."
+    },
+  {
+    "name":"Dave Moorhouse",
+    "rating":5,
+    "review":"Veteran's Green! Veteran's Green! The best pokestops that this side of University has ever seen!"
+    }
+  
+    ],
+"image":"m4.jpeg"
+},
+
+
+  
+{
+"name":"Monkey statue",
+"description":"The wrapping was removed from St. Jacobs artist Timothy Schmalz’s sculpture in front of the former Brick Brewery in Waterloo Thursday to reveal apes and monkeys spilling from a barrel 27 ft above the sidewalk.",
+"longitude":"-80.51852480206058",
+"latitude":"43.49025784377367",
+"rating":[{
+    "name":"Dmitry Vakulenko",
+    "rating":5,
+    "review":"Breath taking. Awe inspiring. Gave me new meaning in life."
+    },
+    {
+    "name":"XYZ Gaming010",
+    "rating":5,
+    "review":"What more could you ask for"
+    },
+  {
+    "name":"Megz",
+    "rating":4,
+    "review":"cool"
+    }
+  
+    ],
+"image":"m5.jpeg"
+},
+{
+"name":"Courtyard by Marriott Waterloo St. Jacobs",
+"description":"The lobby at Courtyard by Marriott Waterloo St. Jacobs provides greater flexibility and choices for our guests where you can find easy access to the latest news, weather and airport conditions via our GoBoard™ technology and enjoy free Wi-Fi internet access throughout the hotel. ",
+"longitude":"-80.55506902329111",
+"latitude":"43.50705007159134",
+"rating":[{
+    "name":"Sarah Southcott",
+    "rating":5,
+    "review":"Used Courtyard by Marriott St. Jacobs for my wedding, and we were so impressed with the rooms, their rates, and their service. We were very proud to have our guests stay with them, and it was a pleasure especially working with Carmen who was so great at communicating with us and was so helpful. Really thankful! Highly recommend."
+    },
+    {
+    "name":"Capttommybone",
+    "rating":4,
+    "review":"Very nice hotel. Close to my customer. Good family style restaurant two building away. The hotel staff goes out of their way to make you feel welcome and comfortable. The room was clean and up to date. My sleep was the best in a long time. Thank you"
+    },
+{
+    "name":"Andrew Wilson",
+    "rating":5,
+    "review":"nice design"
+    }
+  
+    ],
+"image":"ho1.jpeg"
+},
+
+  
+  {
+"name":"Best Western Plus Waterloo",
+"description":"Honest, uncomplicated and comfort are the keys with us here at the Best Western Plus® Waterloo. Come relax in our modern suites and rooms where our guests enjoy high-end amenities including complimentary high-speed Internet, large flat-screen televisions, plush pillowtop mattresses and a mini-fridge",
+"longitude":"-80.53183173068356",
+"latitude":"43.49971346981828",
+"rating":[{
+    "name":"kallen tu",
+    "rating":5,
+    "review":"Location is near Conestoga mall with a lot of places to find food and shop. One ION train away from University of Waterloo campus."
+    },
+    {
+    "name":"Allissa",
+    "rating":4,
+    "review":"Came here 3 years ago and enjoyed it."
+    },
+
+  {
+    "name":"David Brown",
+    "rating":4,
+    "review":"nice "
+    }
+  
+    ],
+"image":"ho2.jpeg"
+},
+
+ 
+  {
+"name":"The Inn of Waterloo",
+"description":"It may come as a surprise that one of the largest convention hotels in Waterloo, Ontario is also its warmest and most personable. ",
+"longitude":"-80.5296773153418",
+"latitude":"43.49094953346607",
+"rating":[{
+    "name":"Mata Borka",
+    "rating":5,
+    "review":"Nice little area ."
+    },
+    {
+    "name":"Jp Pan",
+    "rating":5,
+    "review":"my god its good"
+    },
+  {
+    "name":"liam Prince",
+    "rating":4,
+    "review":"stupenso fantabulously good."
+    }
+  
+    ],
+"image":"h03.jpeg"
+},
+
+
+{
+"name":"Quality Inn",
+"description":" At Quality Inn® hotels, we believe that travel should be all about connecting with your people, while getting the value you deserve.",
+"longitude":"-80.43671325397466",
+"latitude":"43.429826084965335",
+"rating":[{
+    "name":"James",
+    "rating":5,
+    "review":"comfy place"
+    },
+    {
+    "name":"Michael jonas",
+    "rating":5,
+    "review":"more than super"
+    },
+  {
+    "name":"Daizy shah",
+    "rating":5,
+    "review":"check ins are easy and nice view from rooms"
+    }
+  
+    ],
+"image":"ho4.jpeg"
+},
+
+
+  
+{
+"name":"Crowne Plaza Kitchener-Waterloo",
+"description":"Welcome to the Crowne Plaza Kitchener Waterloo; located just minutes from highway 401 in the heart of downtown Kitchener and a short commute to cities; such as Waterloo, St. Jacobs, Cambridge, and Guelph. We are at the center of Kitchener-Waterloo's thriving technology hub; including Google, D2L, Open Text, BlackBerry, Christie Digital, NetSuite, Igloo, Communitech, and Catalyst 137.",
+"longitude":"-80.48772443807601",
+"latitude":"43.449376631018175",
+"rating":[{
+    "name":"Jaskirat Singh",
+    "rating":2,
+    "review":"chhole bhature not good i can make better"
+    },
+    {
+    "name":"palak",
+    "rating":5,
+    "review":"What more could you ask for"
+    },
+  {
+    "name":"Meghna rawat",
+    "rating":4,
+    "review":"cool place to stay"
+    }
+  
+    ],
+"image":"ho5.jpeg"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"name":"Conestoga Mall",
+"description":"Conestoga Mall is a shopping mall located at 550 King Street North in Waterloo, Ontario, Canada. Located at King Street's interchange with the Conestoga Parkway, it is the largest shopping centre in Waterloo, and third-largest in Waterloo Region.",
+"longitude":"-80.3137",
+"latitude":"43.2957",
+"rating":[{
+    "name":"Damilola Balogun Ofoegbu",
+    "rating":5,
+    "review":"It houses a cinema, handful of restaurants, clothing stores, telecommunications stores, TD bank and a host of other businesses. Couldn’t explore more cos I had a very long day."
+    },
+    {
+    "name":"Athul Asok",
+    "rating":4,
+    "review":"It's a decent mall in Waterloo area. Not the best it's good"
+    },
+{
+    "name":"Ella P",
+    "rating":3,
+    "review":"This mall is not what it used to be. Many of the stores feel like 'fillers', if that makes sense. Many are just empty, random clothing stores with out of date trends. Definitely need some more stores introduced. Otherwise, it is always clean and the food court is nice. Better than most Ontario malls, haha."
+    }
+  
+    ],
+"image":"ml1.jpeg"
+},
+
+  
+  {
+"name":"Bridgeport Plaza",
+"description":"Bridgepoint Plaza is an established shopping centre located in this dynamic urban municipality of Waterloo. Surrounded by family homes and close to University of Waterloo and Wilfrid Laurier University, this centre is always full of activity. With Major tenants including Sobeys, Walmart, and Bulk Barn, this centre is surely a smart one stop shopping destination for everyday needs.",
+"longitude":"-80.51518425397467",
+"latitude":"43.47057425519244",
+"rating":[{
+    "name":"Jessica Streeter",
+    "rating":5,
+    "review":"Always a great spot for baking supplies and candies. Also really their selection of dried fruits and nuts. This store is always organized and usually hardly any waits for check out."
+    },
+    {
+    "name":"Barun Sengupta",
+    "rating":5,
+    "review":"This plaza has all the stores that you need for the weekend errands and the location is easy accessible too both for private and public commuters. Ample of parking spot. All stores have good stocks."
+    },
+
+  {
+    "name":"David Brown",
+    "rating":4,
+    "review":"nice "
+    }
+  
+    ],
+"image":"ml2.jpeg"
+},
+
+ 
+  {
+"name":"SmartCentres Waterloo",
+"description":"SmartCentres Waterloo brings you the perfect combination of convenience, value and a mix of some of Canada's most popular retailers. ",
+"longitude":"-80.54840435397466",
+"latitude":"43.50983474574396",
+"rating":[{
+    "name":"Matina Bonkaka",
+    "rating":5,
+    "review":"Nice little area ."
+    },
+    {
+    "name":"Jpkop Pantiff ",
+    "rating":5,
+    "review":"my god its good"
+    },
+  {
+    "name":"lianam Prince",
+    "rating":4,
+    "review":"fantabulously good."
+    }
+  
+    ],
+"image":"ml3.jpeg"
+},
+
+
+{
+"name":"The Boardwalk",
+"description":" The Boardwalk is a thriving open-air centre on the west side of Kitchener-Waterloo, Ontario. ",
+"longitude":"-80.56150619815187",
+"latitude":"43.436635327395486",
+"rating":[{
+    "name":"James bond",
+    "rating":5,
+    "review":"comfy place"
+    },
+    {
+    "name":"Mika jhons",
+    "rating":5,
+    "review":"more than super"
+    },
+  {
+    "name":"shanty la",
+    "rating":5,
+    "review":"it is not good no bad average"
+    }
+  
+    ],
+"image":"ml4.jpeg"
+},
+
+
+  
+{
+"name":"Beechwood Centre",
+"description":"Look at the list of stores in Beechwood Centre, hours, location and information about mall and special events, sales, coupons. You can choose store from list below and get detail information - other stores locations for the brand, location, shopping hours, phone, map, directions contact. Beechwood Centre is one of the best shopping place for spend your free time - mall/shopping center has all types of stores - outlets, department, fashion, traditional and more.",
+"longitude":"-80.556073560406",
+"latitude":"43.452979343584",
+"rating":[{
+    "name":"jignes k",
+    "rating":2,
+    "review":"not much variety"
+    },
+    {
+    "name":"palak tiwari",
+    "rating":5,
+    "review":"What more could you ask for"
+    },
+  {
+    "name":"Megtina loswfho",
+    "rating":4,
+    "review":"cool place to stay"
+    }
+  
+    ],
+"image":"ml5.jpeg"
+},
+
+
+
+
+
+
+
+
+
+
+
+
+
+{
+"name":"Paula White Diamond Art Gallery + Design Studio",
+"description":"At Paula White Diamond Art Gallery, we make it our mission to help you discover and buy from some of the best emerging and established Canadian artists.",
+"longitude":"-80.51873676931643",
+"latitude":"43.4605623546221",
+"rating":[{
+    "name":"Chika laha",
+    "rating":5,
+    "review":" Couldn’t explore more cos I had a very long daybut was nice"
+    },
+    {
+    "name":"eanshoosok",
+    "rating":4,
+    "review":"It is  decent ."
+    },
+{
+    "name":"Ella Pelkin",
+    "rating":3,
+    "review":"good place nice."
+    }
+  
+    ],
+"image":"ag1.jpeg"
+},
+
+  
+  {
+"name":"Curry's Artists' Materials - Waterloo",
+"description":"Come and visit us to expand your inspirational palette!",
+"longitude":"-80.5639595767089",
+"latitude":"43.439983442506325",
+"rating":[{
+    "name":"Bean McDougall",
+    "rating":5,
+    "review":"I love coming here for art supplies. The prices are great and the sell most of what I need. Most of it is fine art supplies, but they sell student and professional grade paints. The people here are ex"
+    },
+    {
+    "name":"Lady Zombii (LadyZombii)",
+    "rating":4,
+    "review":"I used to love shopping here since they usually carry a lot of stuff you won’t find at Michaels or similar places, but I might suggest they move to a much smaller store. They’ve been seriously low on all inventory since before the pandemic started. Three years ago I filled out a form in order to have someone call me when the supplies I was looking for finally came in. I never once got a call. I emailed them and was told that the inventory issue was due to COVID, but a year before that when I asked they said it was due to their warehouse moving. I don’t know why they keep making excuses. Just get a smaller store so it actually looks full at this point."
+    },
+
+  {
+    "name":"Linda Hawken",
+    "rating":4,
+    "review":"Extremely helpful sales assistant.  Disappointed that 20% discount no longer given for members of art related groups."
+    }
+  
+    ],
+"image":"al2.jpeg"
+},
+
+ 
+  {
+"name":"UpTown GALLERY",
+"description":"The Gallery began in 2006 with the mission to bring art to our community and promote local artists. ",
+"longitude":"-80.5178919770537",
+"latitude":"43.49631724768565",
+"rating":[{
+    "name":"Matina Bonkaka",
+    "rating":5,
+    "review":"Nice little area ."
+    },
+    {
+    "name":"Jpkop Pantiff ",
+    "rating":5,
+    "review":"my god its good"
+    },
+  {
+    "name":"lianam Prince",
+    "rating":4,
+    "review":"fantabulously good."
+    }
+  
+    ],
+"image":"al3.jpeg"
+},
+
+
+{
+"name":"Dale Arts",
+"description":" Olivia Dale. Global Business and Digital Arts student at the University of Waterloo. University of WaterlooUniversity of Waterloo. ",
+"longitude":"-80.52116550794933",
+"latitude":"43.45920206860057",
+"rating":[{
+    "name":"James bond",
+    "rating":5,
+    "review":"comfy place"
+    },
+    {
+    "name":"Mika jhons",
+    "rating":5,
+    "review":"more than super"
+    },
+  {
+    "name":"shanty la",
+    "rating":5,
+    "review":"it is not good no bad average"
+    }
+  
+    ],
+"image":"al4.jpeg"
+},
+
+
+  
+{
+"name":"Canadian Clay and Glass Gallery",
+"description":"The Canadian Clay and Glass Gallery is a public art gallery located in Waterloo, Ontario, Canada. It is the only Canadian art gallery exclusively dedicated to exhibiting and collecting contemporary Canadian ceramic, glass, enamel and stained glass works of art. It has approximately 20,000 annual visitors. ",
+"longitude":"-80.556073560406",
+"latitude":"43.452979343584",
+"rating":[{
+    "name":"jignes k",
+    "rating":2,
+    "review":"not much variety"
+    },
+    {
+    "name":"palak tiwari",
+    "rating":5,
+    "review":"What more could you ask for"
+    },
+  {
+    "name":"Megtina loswfho",
+    "rating":4,
+    "review":"cool place to stay"
+    }
+  
+    ],
+"image":"al5.jpeg"
+}
+]
