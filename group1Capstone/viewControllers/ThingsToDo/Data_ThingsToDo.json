@@ -1,0 +1,143 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "nameOfThing": "Victoria Park",
+      "thingDescription": "Victoria Park is the oldest park in Kitchener, Ontario, Canada, situated downtown. It is the site of numerous events and festivities. A Berlin map from 1879 has a Town Park, located between Mill Street and Highland Road where Highland Courts and Woodside Parks stand today.",
+      "address": "32 Dill St, Kitchener,ON N2G 1L1",
+      "hours": "6:00 a.m - 11:00 p.m",
+      "image": "https://explorewaterloo.ca/wp-content/uploads/2016/05/634934229160581495_Final.jpg",
+      "rate": 4.6,
+      "review": 6239,
+      "Phone": "(519) 741-2200",
+      "Province": "Ontario",
+      "Area": "24 ha",
+      "latitude": "43.44569481554042",
+      "longitude": "-80.49827182397819",
+      "category": "Parks & Trails",
+      "comments": [
+        {
+          "idUser": "josealbertomp@gmail.com",
+          "rate": 4,
+          "comment": "A beautiful place with a very pleasant atmosphere. Especially during spring. No eateries nearby, so don't forget stuff some in your bag or better go for a picnic. Plenty of play areas with swings slides and mini climbing challenges. Playground is also very much child safe.",
+          "date": "2022-08-01"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nameOfThing": "Waterloo Park",
+      "thingDescription": "Waterloo Park is an urban park situated in Waterloo, Ontario, Canada on land within Block 2 of the Haldimand Tract. Spanning 111 acres within the Uptown area of Waterloo, it opened in 1893 and is the oldest park in the city.",
+      "address": "100 Father David Bauer Dr, Waterloo, ON N2L 2Y4",
+      "hours": "7:00 a.m - 11:00 p.m",
+      "image": "https://explorewaterloo.ca/wp-content/uploads/2016/05/Waterloo-Park.jpg",
+      "rate": 4.6,
+      "review": 4503,
+      "Phone": "(519) 725-0511",
+      "Province": "Ontario",
+      "Area": "111 acres",
+      "latitude": "43.465735663526885",
+      "longitude": "-80.53357924490109",
+      "category": "Parks & Trails",
+      "comments": []
+    },
+    {
+      "id": 3,
+      "nameOfThing": "THEMUSEUM",
+      "thingDescription": "TheMuseum is an art and technology museum in Kitchener, Ontario, which was opened to the public in September 2003 following eight years of planning and fundraising. TheMuseum, as it was renamed in 2010, offers a range of permanent interactive exhibits and rotating temporary exhibits designed for all ages.",
+      "address": "10 King St W, Kitchener, ON N2G 1A3",
+      "hours": "10:00 a.m - 4:00 p.m",
+      "image": "https://explorewaterloo.ca/wp-content/uploads/2016/05/THEMUSEUM-602x600.jpg",
+      "rate": 4,
+      "review": 1168,
+      "Phone": "(519) 749-9387",
+      "Province": "Ontario",
+      "Area": " ",
+      "latitude": "43.4501",
+      "longitude": "-80.4894",
+      "category": "Attractions & Entertainment,Museums & Galleries",
+      "comments": []
+    },
+    {
+      "id": 4,
+      "nameOfThing": "St. Jacobs Farmers' Market",
+      "thingDescription": "St. Jacobs Farmers' Market is a farmers' market and flea market in Woolwich, Ontario, Canada. It is located to the south of King Street North, to the east of Weber Street North, and to the west of the railway tracks. It is the largest year-round farmer's market in Canada, and is a popular destination for residents of the town and nearby communities, as well as tourists from Canada, the United States, and Europe. It draws about 1 million visitors annually. It was established in April 1975. The main building of the market was destroyed by a fire on 2 September 2013. The market was rebuilt and re-opened on 11 June 2015. The market is on Thursdays and Saturdays throughout the year.",
+      "address": "878 Weber St N, Woolwich, ON N2J 4A9",
+      "hours": "08:00 a.m - 3:00 p.m",
+      "image": "https://explorewaterloo.ca/wp-content/uploads/2019/08/St.-Jacobs-Farmers-Market.jpg",
+      "rate": 4,
+      "review": 13763,
+      "Phone": "(519) 747-1830",
+      "Province": "Ontario",
+      "Area": " ",
+      "latitude": "43.51175",
+      "longitude": "-80.55364",
+      "category": "Attractions & Entertainment,Museums & Galleries",
+      "comments": []
+    },
+    {
+      "id": 5,
+      "nameOfThing": "Earth Sciences Museum",
+      "thingDescription": "Facility at the University of Waterloo with dinosaur skeletons, fossils, mineral samples & more.",
+      "address": "200 University Ave W, Waterloo, ON N2L 3G1",
+      "hours": "09:00 a.m - 4:00 p.m",
+      "image": "https://uwaterloo.ca/earth-sciences-museum/sites/ca.earth-sciences-museum/files/uploads/images/dsc07188.jpg",
+      "rate": 4,
+      "review": 260,
+      "Phone": "(519) 888-4567",
+      "Province": "Ontario",
+      "Area": " ",
+      "latitude": "43.47389",
+      "longitude": "-80.54290",
+      "category": "Attractions & Entertainment,Museums & Galleries",
+      "comments": [
+        {
+          "idUser": "alexander@gmail.com",
+          "rate": 5,
+          "comment": "Really cool for free museum, enjoyed seeing some different things I'd never coming across. Wish more universities did this sort of thing to involve the community, great work",
+          "date": "2022-08-01"
+        },
+        {
+          "idUser": "oscar@gmail.com",
+          "rate": 3,
+          "comment": "If you aren't from Waterloo, or Waterloo Uni, good luck getting around campus. Students are nice and try to help, but big University like Waterloo do need to work on their mapping issue.",
+          "date": "2022-08-01"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nameOfThing": "Maple Syrup Museum of Ontario",
+      "thingDescription": "The Maple Syrup Museum of Ontario is worth checking out if you happen to be in St. Jacobs. Their display about maple syrup is pretty basic but educational.",
+      "address": "1441 King St N, St. Jacobs, ON N0B 2N0",
+      "hours": "10:00 a.m - 6:00 p.m",
+      "image": "https://cdn.canada247.info/assets/uploads/46c13ae0adffd8b281bcb923add5b276_-ontario-waterloo-regional-municipality-woolwich-saint-jacobs-maple-syrup-museum-of-ontariohtml.jpg",
+      "rate": 4,
+      "review": 76,
+      "Phone": "No provided",
+      "Province": "Ontario",
+      "Area": " ",
+      "latitude": "43.540633",
+      "longitude": "-80.553694",
+      "category": "Attractions & Entertainment,Museums & Galleries",
+      "comments": []
+    },
+    {
+      "id": 7,
+      "nameOfThing": "Laurel Creek Conservation Area",
+      "thingDescription": "Laurel Creek Conservation Area, or simply Laurel Creek, is a park located in Waterloo, Ontario, Canada. The park is owned by the Grand River Conservation Authority. Laurel Creek is open year-round and offers several outdoor activities, such as swimming, campsites, picnic tables, and playgrounds.",
+      "address": "625 Westmount Rd N, Waterloo, ON N2J 2Z4",
+      "hours": "07:00 a.m - 9:00 p.m",
+      "image": "https://explorewaterloo.ca/wp-content/uploads/2016/05/2021-10-13-Laurel-Creek-Conservation-3-small.jpg",
+      "rate": 4,
+      "review": 1203,
+      "Phone": "(519) 884-6620",
+      "Province": "Ontario",
+      "Area": " ",
+      "latitude": "43.490208",
+      "longitude": "-80.570127",
+      "category": "Outdoor & Recreation, Parks & Trails",
+      "comments": []
+    }
+  ]
+}

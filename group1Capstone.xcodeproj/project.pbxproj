@@ -20,6 +20,20 @@
 		1050D78828A19D65003C00A8 /* ToursViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1050D78728A19D65003C00A8 /* ToursViewController.swift */; };
 		1050D78A28A19D94003C00A8 /* MyTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1050D78928A19D94003C00A8 /* MyTableViewCell.swift */; };
 		106622CF28A5824500C732FF /* location.json in Resources */ = {isa = PBXBuildFile; fileRef = 106622CE28A5824500C732FF /* location.json */; };
+		106622D228A5E8BD00C732FF /* TtdViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 106622D128A5E8BD00C732FF /* TtdViewController.swift */; };
+		106622D628A5E93000C732FF /* ThingsToDoStoryboard.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 106622D528A5E93000C732FF /* ThingsToDoStoryboard.storyboard */; };
+		106622D928A5E9E300C732FF /* Realm in Frameworks */ = {isa = PBXBuildFile; productRef = 106622D828A5E9E300C732FF /* Realm */; };
+		106622DB28A5E9E300C732FF /* RealmSwift in Frameworks */ = {isa = PBXBuildFile; productRef = 106622DA28A5E9E300C732FF /* RealmSwift */; };
+		106622DD28A5ECAE00C732FF /* Thing.swift in Sources */ = {isa = PBXBuildFile; fileRef = 106622DC28A5ECAE00C732FF /* Thing.swift */; };
+		106622DF28A5ECB800C732FF /* RatingController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 106622DE28A5ECB800C732FF /* RatingController.swift */; };
+		106622E128A5ECC300C732FF /* TableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 106622E028A5ECC300C732FF /* TableViewCell.swift */; };
+		106622E328A5ECCD00C732FF /* Comment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 106622E228A5ECCD00C732FF /* Comment.swift */; };
+		106622E528A5ECEB00C732FF /* DataBase.swift in Sources */ = {isa = PBXBuildFile; fileRef = 106622E428A5ECEB00C732FF /* DataBase.swift */; };
+		106622E728A5ED2700C732FF /* DetailController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 106622E628A5ED2700C732FF /* DetailController.swift */; };
+		106622E928A5ED9900C732FF /* ReviewsViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 106622E828A5ED9900C732FF /* ReviewsViewCell.swift */; };
+		106622EB28A5EDAB00C732FF /* CommentViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 106622EA28A5EDAB00C732FF /* CommentViewController.swift */; };
+		106622ED28A5EDCD00C732FF /* Data_ThingsToDo.json in Resources */ = {isa = PBXBuildFile; fileRef = 106622EC28A5EDCD00C732FF /* Data_ThingsToDo.json */; };
+		106622EF28A5EDD300C732FF /* ThingStruct.swift in Sources */ = {isa = PBXBuildFile; fileRef = 106622EE28A5EDD300C732FF /* ThingStruct.swift */; };
 		CD3A56B828A173DB00186F45 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD3A56B728A173DB00186F45 /* AppDelegate.swift */; };
 		CD3A56BA28A173DB00186F45 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD3A56B928A173DB00186F45 /* SceneDelegate.swift */; };
 		CD3A56BC28A173DB00186F45 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CD3A56BB28A173DB00186F45 /* ViewController.swift */; };
@@ -41,6 +55,18 @@
 		1050D78728A19D65003C00A8 /* ToursViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToursViewController.swift; sourceTree = "<group>"; };
 		1050D78928A19D94003C00A8 /* MyTableViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTableViewCell.swift; sourceTree = "<group>"; };
 		106622CE28A5824500C732FF /* location.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = location.json; sourceTree = "<group>"; };
+		106622D128A5E8BD00C732FF /* TtdViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TtdViewController.swift; sourceTree = "<group>"; };
+		106622D528A5E93000C732FF /* ThingsToDoStoryboard.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = ThingsToDoStoryboard.storyboard; sourceTree = "<group>"; };
+		106622DC28A5ECAE00C732FF /* Thing.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Thing.swift; sourceTree = "<group>"; };
+		106622DE28A5ECB800C732FF /* RatingController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RatingController.swift; sourceTree = "<group>"; };
+		106622E028A5ECC300C732FF /* TableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TableViewCell.swift; sourceTree = "<group>"; };
+		106622E228A5ECCD00C732FF /* Comment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Comment.swift; sourceTree = "<group>"; };
+		106622E428A5ECEB00C732FF /* DataBase.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DataBase.swift; sourceTree = "<group>"; };
+		106622E628A5ED2700C732FF /* DetailController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailController.swift; sourceTree = "<group>"; };
+		106622E828A5ED9900C732FF /* ReviewsViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReviewsViewCell.swift; sourceTree = "<group>"; };
+		106622EA28A5EDAB00C732FF /* CommentViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentViewController.swift; sourceTree = "<group>"; };
+		106622EC28A5EDCD00C732FF /* Data_ThingsToDo.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = Data_ThingsToDo.json; sourceTree = "<group>"; };
+		106622EE28A5EDD300C732FF /* ThingStruct.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ThingStruct.swift; sourceTree = "<group>"; };
 		CD3A56B428A173DB00186F45 /* group1Capstone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = group1Capstone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CD3A56B728A173DB00186F45 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		CD3A56B928A173DB00186F45 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -57,6 +83,8 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				106622DB28A5E9E300C732FF /* RealmSwift in Frameworks */,
+				106622D928A5E9E300C732FF /* Realm in Frameworks */,
 				1050D77B28A18640003C00A8 /* FirebaseAuth in Frameworks */,
 				1050D77D28A18640003C00A8 /* FirebaseFirestore in Frameworks */,
 			);
@@ -68,6 +96,7 @@
 		1050D76A28A17EFB003C00A8 /* storyboards */ = {
 			isa = PBXGroup;
 			children = (
+				106622D528A5E93000C732FF /* ThingsToDoStoryboard.storyboard */,
 				1050D78428A196EC003C00A8 /* ToursStoryboard.storyboard */,
 				1050D76D28A17F42003C00A8 /* LoginStoryboard.storyboard */,
 			);
@@ -77,6 +106,7 @@
 		1050D76C28A17F16003C00A8 /* viewControllers */ = {
 			isa = PBXGroup;
 			children = (
+				106622D028A5E82F00C732FF /* ThingsToDo */,
 				1050D76F28A18012003C00A8 /* login */,
 				1050D78028A1908F003C00A8 /* HomeViewController.swift */,
 			);
@@ -110,6 +140,24 @@
 				1050D78928A19D94003C00A8 /* MyTableViewCell.swift */,
 			);
 			path = Tours;
+			sourceTree = "<group>";
+		};
+		106622D028A5E82F00C732FF /* ThingsToDo */ = {
+			isa = PBXGroup;
+			children = (
+				106622E028A5ECC300C732FF /* TableViewCell.swift */,
+				106622DE28A5ECB800C732FF /* RatingController.swift */,
+				106622E228A5ECCD00C732FF /* Comment.swift */,
+				106622DC28A5ECAE00C732FF /* Thing.swift */,
+				106622E428A5ECEB00C732FF /* DataBase.swift */,
+				106622D128A5E8BD00C732FF /* TtdViewController.swift */,
+				106622E828A5ED9900C732FF /* ReviewsViewCell.swift */,
+				106622EE28A5EDD300C732FF /* ThingStruct.swift */,
+				106622E628A5ED2700C732FF /* DetailController.swift */,
+				106622EC28A5EDCD00C732FF /* Data_ThingsToDo.json */,
+				106622EA28A5EDAB00C732FF /* CommentViewController.swift */,
+			);
+			path = ThingsToDo;
 			sourceTree = "<group>";
 		};
 		CD3A56AB28A173DB00186F45 = {
@@ -166,6 +214,8 @@
 			packageProductDependencies = (
 				1050D77A28A18640003C00A8 /* FirebaseAuth */,
 				1050D77C28A18640003C00A8 /* FirebaseFirestore */,
+				106622D828A5E9E300C732FF /* Realm */,
+				106622DA28A5E9E300C732FF /* RealmSwift */,
 			);
 			productName = group1Capstone;
 			productReference = CD3A56B428A173DB00186F45 /* group1Capstone.app */;
@@ -196,6 +246,7 @@
 			mainGroup = CD3A56AB28A173DB00186F45;
 			packageReferences = (
 				1050D77928A18640003C00A8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */,
+				106622D728A5E9E300C732FF /* XCRemoteSwiftPackageReference "realm-swift" */,
 			);
 			productRefGroup = CD3A56B528A173DB00186F45 /* Products */;
 			projectDirPath = "";
@@ -213,9 +264,11 @@
 			files = (
 				CD3A56C728A173E400186F45 /* LaunchScreen.storyboard in Resources */,
 				106622CF28A5824500C732FF /* location.json in Resources */,
+				106622D628A5E93000C732FF /* ThingsToDoStoryboard.storyboard in Resources */,
 				CD3A56C428A173E400186F45 /* Assets.xcassets in Resources */,
 				1050D77F28A187C6003C00A8 /* GoogleService-Info.plist in Resources */,
 				CD3A56BF28A173DB00186F45 /* Main.storyboard in Resources */,
+				106622ED28A5EDCD00C732FF /* Data_ThingsToDo.json in Resources */,
 				1050D76E28A17F42003C00A8 /* LoginStoryboard.storyboard in Resources */,
 				1050D78528A196EC003C00A8 /* ToursStoryboard.storyboard in Resources */,
 			);
@@ -228,16 +281,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				106622EB28A5EDAB00C732FF /* CommentViewController.swift in Sources */,
+				106622E128A5ECC300C732FF /* TableViewCell.swift in Sources */,
 				1050D77628A18185003C00A8 /* SigninViewController.swift in Sources */,
+				106622D228A5E8BD00C732FF /* TtdViewController.swift in Sources */,
 				1050D77428A18124003C00A8 /* Utilities.swift in Sources */,
+				106622E528A5ECEB00C732FF /* DataBase.swift in Sources */,
 				1050D77828A181A7003C00A8 /* SignupViewController.swift in Sources */,
 				1050D78A28A19D94003C00A8 /* MyTableViewCell.swift in Sources */,
 				CD3A56BC28A173DB00186F45 /* ViewController.swift in Sources */,
 				CD3A56B828A173DB00186F45 /* AppDelegate.swift in Sources */,
 				1050D78128A1908F003C00A8 /* HomeViewController.swift in Sources */,
+				106622E928A5ED9900C732FF /* ReviewsViewCell.swift in Sources */,
 				1050D78828A19D65003C00A8 /* ToursViewController.swift in Sources */,
+				106622DD28A5ECAE00C732FF /* Thing.swift in Sources */,
+				106622E328A5ECCD00C732FF /* Comment.swift in Sources */,
 				CD3A56C228A173DB00186F45 /* group1Capstone.xcdatamodeld in Sources */,
 				1050D77128A18045003C00A8 /* LoginViewController.swift in Sources */,
+				106622DF28A5ECB800C732FF /* RatingController.swift in Sources */,
+				106622EF28A5EDD300C732FF /* ThingStruct.swift in Sources */,
+				106622E728A5ED2700C732FF /* DetailController.swift in Sources */,
 				CD3A56BA28A173DB00186F45 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -448,6 +511,14 @@
 				minimumVersion = 9.0.0;
 			};
 		};
+		106622D728A5E9E300C732FF /* XCRemoteSwiftPackageReference "realm-swift" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/realm/realm-swift.git";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
@@ -460,6 +531,16 @@
 			isa = XCSwiftPackageProductDependency;
 			package = 1050D77928A18640003C00A8 /* XCRemoteSwiftPackageReference "firebase-ios-sdk" */;
 			productName = FirebaseFirestore;
+		};
+		106622D828A5E9E300C732FF /* Realm */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 106622D728A5E9E300C732FF /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = Realm;
+		};
+		106622DA28A5E9E300C732FF /* RealmSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 106622D728A5E9E300C732FF /* XCRemoteSwiftPackageReference "realm-swift" */;
+			productName = RealmSwift;
 		};
 /* End XCSwiftPackageProductDependency section */
 

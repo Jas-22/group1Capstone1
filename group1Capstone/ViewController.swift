@@ -41,7 +41,7 @@ class ViewController: UIViewController {
             fetchLocation()
            
            
-            var allUser = try context.fetch(User.fetchRequest())
+            let allUser = try context.fetch(User.fetchRequest())
             
          /*   if(allUser == []){
                 var user = User(context: context)
@@ -86,16 +86,12 @@ class ViewController: UIViewController {
         }
         else {
 
-       
-
-        
         let storyBoard: UIStoryboard = UIStoryboard(name: "LoginStoryboard", bundle: nil)
             
         let loginViewController = storyBoard.instantiateViewController(withIdentifier: "LoginStory") as! LoginViewController
             
         self.view.window?.rootViewController = loginViewController
                           self.view.window?.makeKeyAndVisible()
-            
             
         }
     }
@@ -179,12 +175,6 @@ class ViewController: UIViewController {
               } catch {
                    // handle error
               }
-            
-         
-            
-            
-            
-            
         }else{
             print("file not found")
         }

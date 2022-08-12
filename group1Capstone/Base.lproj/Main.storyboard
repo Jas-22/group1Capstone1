@@ -68,22 +68,6 @@
             </objects>
             <point key="canvasLocation" x="-2564" y="992"/>
         </scene>
-        <!--Item 2-->
-        <scene sceneID="JiK-oE-qZH">
-            <objects>
-                <viewController id="Wii-cT-1Kc" sceneMemberID="viewController">
-                    <view key="view" contentMode="scaleToFill" id="DuS-pf-dIJ">
-                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
-                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <viewLayoutGuide key="safeArea" id="hya-Gs-lFU"/>
-                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
-                    </view>
-                    <tabBarItem key="tabBarItem" title="Item 2" id="36t-5u-mM2"/>
-                </viewController>
-                <placeholder placeholderIdentifier="IBFirstResponder" id="ePN-ns-uym" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-            </objects>
-            <point key="canvasLocation" x="110" y="1820"/>
-        </scene>
         <!--Tab Bar Controller-->
         <scene sceneID="0HL-gA-ERx">
             <objects>
@@ -96,7 +80,7 @@
                     <connections>
                         <segue destination="LUa-VS-hZB" kind="relationship" relationship="viewControllers" id="ZXN-cq-Kxp"/>
                         <segue destination="7T9-hK-G4U" kind="relationship" relationship="viewControllers" id="cGH-I9-2Cc"/>
-                        <segue destination="Wii-cT-1Kc" kind="relationship" relationship="viewControllers" id="lTK-LT-LI0"/>
+                        <segue destination="ouB-JO-N1F" kind="relationship" relationship="viewControllers" id="lTK-LT-LI0"/>
                     </connections>
                 </tabBarController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="OZy-xr-pYJ" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
@@ -179,6 +163,16 @@
                 <placeholder placeholderIdentifier="IBFirstResponder" id="jy4-Vj-fVy" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
             <point key="canvasLocation" x="-359" y="1118"/>
+        </scene>
+        <!--ThingsToDoStoryboard-->
+        <scene sceneID="kIe-xE-BYx">
+            <objects>
+                <viewControllerPlaceholder storyboardName="ThingsToDoStoryboard" id="ouB-JO-N1F" sceneMemberID="viewController">
+                    <tabBarItem key="tabBarItem" title="Item" id="mKG-9d-Qnx"/>
+                </viewControllerPlaceholder>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="PDF-lq-xRt" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="110" y="1820"/>
         </scene>
     </scenes>
     <resources>
